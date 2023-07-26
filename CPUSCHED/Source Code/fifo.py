@@ -36,7 +36,7 @@ def scheduler(processes):
     #output
     print("\nStatistics for the run:")
     print(f"Number of processes: {completed_processes}")
-    print(f"Total elasped time (for the scheduler): {current_time}")
+    print(f"Total elapsed time (for the scheduler): {current_time}")
     print(f"Throughput: {throughput:.2f}")
     print(f"CPU Utilization: {cpu_utl:.2%}")
     print(f"Average waiting time (in CPU burst times): {avg_waiting_time:.2f}")
