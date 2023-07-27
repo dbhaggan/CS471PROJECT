@@ -1,0 +1,10 @@
+SJF:
+
+Statistics for the run:
+Number of processes: 500
+Total elasped time (for the scheduler): 14744
+Throughput: 0.03
+CPU Utilization: 71.61%
+Average waiting time (in CPU burst times): 17.88
+Average turnaround time (in CPU burst times): 29.49
+Average response time (in CPU burst times): 17.88
