@@ -1,0 +1,10 @@
+Priority:
+
+Statistics for the run:
+Number of processes: 500
+Total elasped time (for the scheduler): 24459
+Throughput: 0.02
+CPU Utilization: 0.00%
+Average waiting time (in CPU burst times): 228108.99
+Average turnaround time (in CPU burst times): 48.92
+Average response time (in CPU burst times): 228108.99
